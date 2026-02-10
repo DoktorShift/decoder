@@ -1,0 +1,9 @@
+{
+  "repos": [
+    {
+      "id": "decoder",
+      "organisation": "bitkarrot",
+      "repository": "decoder"
+    }
+  ]
+}
