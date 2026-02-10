@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-success?logo=open-source-initiative&logoColor=white)](./LICENSE)
 [![Built for LNbits](https://img.shields.io/badge/Built%20for-LNbits-4D4DFF?logo=lightning&logoColor=white)](https://github.com/lnbits/lnbits)
 
-<h1>Decoder extension</h1>
+# Decoder extension by [Bitkarrot](https://github.com/bitkarrot)
 
 This is an extension to help decode invoices, lnurls and lightning addresses in [LNBits](https://lnbits.com).
 
@@ -49,7 +49,7 @@ poetry env use python3.9
 poetry install --only main
 ```
 
-## Powered by LNbits
+## Featured by LNbits
 
 [LNbits](https://lnbits.com) is a free and open-source lightning accounts system.
 
