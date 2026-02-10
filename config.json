@@ -17,7 +17,7 @@
   "images": [
     {
       "uri": "https://raw.githubusercontent.com/lnbits/satspot/main/static/decoder_thumbnail.png",
-      "link": "/decoder/static/Video/decoder_video.mp4"
+      "link": "https://cdn.jsdelivr.net/gh/DoktorShift/decoder@more_pages/static/Video/decoder_video.mp4 "
     },
     {
       "uri": "https://raw.githubusercontent.com/bitkarrot/decoder/main/static/Decode1.png"
